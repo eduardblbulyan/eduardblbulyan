@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/eduardblbulyan">
-    <img src="https://github-profile-trophy.vercel.app/?username=eduardblbulyan&theme=monokai" alt="eduardblbulyan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=eduardblbulyan&theme=monokai&column=-1" alt="eduardblbulyan" />
   </a>
 </p>
 

@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardblbulyan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardblbulyan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardblbulyan" alt="eduardblbulyan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/edtheunique" target="blank"><img src="https://img.shields.io/twitter/follow/edtheunique?logo=twitter&style=for-the-badge" alt="edtheunique" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

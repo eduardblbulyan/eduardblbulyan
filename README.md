@@ -10,7 +10,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/edtheunique" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edtheunique" height="30" width="40" />
+    <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg)" alt="edtheunique" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/eduard-blbulyan-9437a128a/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard-blbulyan-9437a128a/" height="30" width="40" />

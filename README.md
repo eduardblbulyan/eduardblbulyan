@@ -16,7 +16,4 @@
 
 [![Eduard's GitHub stats](https://github-readme-stats-eduard.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark)](https://github.com/eduardblbulyan/eduardblbulyan)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark&locale=en" alt="eduardblbulyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardblbulyan&" alt="eduardblbulyan" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zbzcunvmq53nzeaqvrjd7knqc4&count=3&unique=true)

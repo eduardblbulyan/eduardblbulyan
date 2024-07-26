@@ -1,1 +1,1 @@
-[![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardblbulyan)](https://github.com/eduardblbulyan/github-readme-stats)
+[![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark)](https://github.com/eduardblbulyan/eduardblbulyan)

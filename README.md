@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="eduardblbulyan" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=eduardblbulyan&title=Commits,Repositories" alt="eduardblbulyan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,1 +1,1 @@
-Custom README.md
+[![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardblbulyan)](https://github.com/eduardblbulyan/github-readme-stats)

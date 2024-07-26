@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=eduardblbulyan" alt="eduardblbulyan" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="eduardblbulyan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 
 [![Eduard's GitHub stats](https://github-readme-stats-eduard.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark)](https://github.com/eduardblbulyan/eduardblbulyan)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zbzcunvmq53nzeaqvrjd7knqc4&count=3&unique=true&width=200px)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zbzcunvmq53nzeaqvrjd7knqc4&count=3&unique=true)

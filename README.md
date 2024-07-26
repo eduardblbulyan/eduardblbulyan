@@ -4,4 +4,4 @@
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zbzcunvmq53nzeaqvrjd7knqc4&width={width})-->
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/EdTheUnique?style=social&logo=X)
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/EdTheUnique?style=social&logo=X">

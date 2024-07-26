@@ -6,4 +6,4 @@
 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/EdTheUnique?style=social&logo=X">
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/eduard-blbulyan-9437a128a/)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/eduard-blbulyan-9437a128a/)

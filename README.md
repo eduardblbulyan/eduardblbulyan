@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eduard.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark" alt="Eduard's GitHub stats" />
+  <img src="https://github-readme-stats-wine-eta-91.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark" alt="Eduard's GitHub stats" />
 </p>
 
 <p align="center">

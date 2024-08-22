@@ -69,11 +69,11 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown" width="40" height="40"/>
   </a>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-wine-eta-91.vercel.app/api?username=eduardblbulyan&show_icons=true&theme=dark" alt="Eduard's GitHub stats" />
 </p>
-
+-->
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zbzcunvmq53nzeaqvrjd7knqc4&count=3&unique=true" alt="Spotify recently played" />
 </p>

@@ -65,9 +65,6 @@
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="obsidian" width="40" height="40"/>
   </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown" width="40" height="40"/>
-  </a>
   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://repository-images.githubusercontent.com/994551/2ba89c40-184d-45ec-8ffe-f9e155aaf702" alt="jinja" width="40" height="40"/>
   </a>
